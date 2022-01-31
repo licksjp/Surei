@@ -1,4 +1,7 @@
 # 数霊(かずたま)　for Basic for Android
+#数霊の説明URL
+#http://www3.kcn.ne.jp/~sayyuki/Surei_explain.html
+#
 # 2021年度
 ### Ver:002.2021.11.27(test2) 公開日:2021.11.27
 ### Ver:003.2021.11.29(test3) 公開日:2021.11.29
