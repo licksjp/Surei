@@ -1,6 +1,7 @@
 # 数霊(かずたま)　for Basic for Android
 # 数霊の説明URL
 ### http://www3.kcn.ne.jp/~sayyuki/Surei_explain.html
+###　URLの重要なところを以下のところに抜粋しました。
 ### 一部引用　ここから
 ### ■●数霊(かずたま)について
 ### ・「数霊」は、存在する万物を表現する素になっている。
